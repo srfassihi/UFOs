@@ -22,9 +22,16 @@ Create a responsive page to display information on UFO Sightings using a filtera
 
 [Link to Website](https://srfassihi.github.io/UFOs/)
 
-### Challenges
-1. CSS did not always work well with the d3 library components. Had to do more customization using the index.html file than desired.
-2. Filter Search took time to figure out from coding perspective. Initially hung up on the event part for updating the filters. Need more understanding on events and how to interact with d3 objects.
+### How to Filter
+1. Filter using text search in the appropriate filter fields given.
+2. Try using the link provided above!
+
+### Challenges & Recommendations
+1. Bootstrap components are the easiest to use for a new programmer. Was able to Google many examples of nice components.
+2. CSS did not always work well with the d3 library components. Had to do more customization using the index.html file than desired.
+3. Filter Search took time to figure out from coding perspective. Initially hung up on the event part for updating the filters. Need more understanding on events and how to interact with d3 objects.
+4. Further improvements on the module would include dropdown searches of distinct values and a date picker component rather than basic text searching.
+5. Dropdowns can either be displayed A/Z or by count.
 
 ## Resources
 - [Using D3](http://using-d3js.com)
